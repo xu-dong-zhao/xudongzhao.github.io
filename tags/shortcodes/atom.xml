@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>xzhao&#x27;s blog - Shortcodes</title>
     <subtitle>Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://abridge.netlify.app/tags/shortcodes/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://abridge.netlify.app"/>
+    <link rel="self" type="application/atom+xml" href="https://www.xudongzhao.com/tags/shortcodes/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.xudongzhao.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-05-22T00:00:00+00:00</updated>
-    <id>https://abridge.netlify.app/tags/shortcodes/atom.xml</id>
+    <id>https://www.xudongzhao.com/tags/shortcodes/atom.xml</id>
     <entry xml:lang="en">
         <title> Classical Music for Beginners: A Learning and Listening Guide</title>
         <published>2024-05-22T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/classical-music-for-beginners/"/>
-        <id>https://abridge.netlify.app/classical-music-for-beginners/</id>
+        <link rel="alternate" type="text/html" href="https://www.xudongzhao.com/classical-music-for-beginners/"/>
+        <id>https://www.xudongzhao.com/classical-music-for-beginners/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/classical-music-for-beginners/">&lt;h1 id=&quot;classical-music-for-beginners-a-learning-and-listening-guide&quot;&gt;Classical Music for Beginners: A Learning and Listening Guide&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://www.xudongzhao.com/classical-music-for-beginners/">&lt;h1 id=&quot;classical-music-for-beginners-a-learning-and-listening-guide&quot;&gt;Classical Music for Beginners: A Learning and Listening Guide&lt;&#x2F;h1&gt;
 &lt;h2 id=&quot;baroque-period-1600-1750&quot;&gt;Baroque Period (1600-1750)&lt;&#x2F;h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Johann Sebastian Bach - Toccata and Fugue in D Minor&lt;&#x2F;strong&gt;
