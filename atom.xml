@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>xzhao&#x27;s blog</title>
+    <subtitle>Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://abridge.netlify.app/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://abridge.netlify.app"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-22T00:00:00+00:00</updated>
+    <id>https://abridge.netlify.app/atom.xml</id>
+    <entry xml:lang="en">
+        <title> Classical Music for Beginners: A Learning and Listening Guide</title>
+        <published>2024-05-22T00:00:00+00:00</published>
+        <updated>2024-05-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/classical-music-for-beginners/"/>
+        <id>https://abridge.netlify.app/classical-music-for-beginners/</id>
+        
+        <content type="html" xml:base="https://abridge.netlify.app/classical-music-for-beginners/">&lt;h1 id=&quot;classical-music-for-beginners-a-learning-and-listening-guide&quot;&gt;Classical Music for Beginners: A Learning and Listening Guide&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;baroque-period-1600-1750&quot;&gt;Baroque Period (1600-1750)&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Johann Sebastian Bach - Toccata and Fugue in D Minor&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A dramatic and powerful organ piece that showcases the complexity of Baroque music.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Antonio Vivaldi - The Four Seasons&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A set of four violin concertos, each representing a different season, full of vivid imagery and technical brilliance.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;classical-period-1750-1820&quot;&gt;Classical Period (1750-1820)&lt;&#x2F;h2&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Wolfgang Amadeus Mozart - Eine kleine Nachtmusik (A Little Night Music)&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A delightful and well-known serenade, perfect for getting acquainted with Classical style.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Ludwig van Beethoven - Symphony No. 5 in C Minor&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;One of the most famous symphonies, known for its iconic four-note motif and emotional depth.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;romantic-period-1820-1910&quot;&gt;Romantic Period (1820-1910)&lt;&#x2F;h2&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Frédéric Chopin - Nocturne in E-flat Major, Op. 9 No. 2&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A beautiful and lyrical piano piece, ideal for understanding the expressive qualities of Romantic music.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Pyotr Ilyich Tchaikovsky - 1812 Overture&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A grand orchestral piece commemorating Russia’s defense against Napoleon, featuring cannon fire and church bells.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;impressionist-period-late-19th-early-20th-century&quot;&gt;Impressionist Period (late 19th - early 20th century)&lt;&#x2F;h2&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Claude Debussy - Clair de Lune&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A serene and dreamy piano piece, representing the Impressionist movement&#x27;s focus on atmosphere and mood.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;20th-century&quot;&gt;20th Century&lt;&#x2F;h2&gt;
+&lt;ol start=&quot;8&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Igor Stravinsky - The Firebird Suite&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A ballet suite with vibrant orchestration and innovative rhythms, showcasing the early 20th-century style.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;modern-classical&quot;&gt;Modern Classical&lt;&#x2F;h2&gt;
+&lt;ol start=&quot;9&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Philip Glass - Metamorphosis One&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;A minimalist piano piece, demonstrating the repetitive structures and gradual development characteristic of contemporary classical music.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;tips-for-learning-and-listening&quot;&gt;Tips for Learning and Listening&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Start with Simpler Pieces:&lt;&#x2F;strong&gt; Begin with pieces that have a clear structure and melody, like Mozart’s &amp;quot;Eine kleine Nachtmusik&amp;quot;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Listen Actively:&lt;&#x2F;strong&gt; Pay attention to different instruments, the structure of the music, and how themes are developed.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Read About the Composers:&lt;&#x2F;strong&gt; Understanding the context in which the music was written can deepen your appreciation.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Attend Live Performances:&lt;&#x2F;strong&gt; If possible, attend concerts to experience the music in a live setting.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Learn an Instrument:&lt;&#x2F;strong&gt; Playing an instrument can greatly enhance your understanding and enjoyment of classical music.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>wsl cheatsheet</title>
+        <published>2022-05-24T00:00:00+00:00</published>
+        <updated>2023-05-24T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/wsl-cheatsheet/"/>
+        <id>https://abridge.netlify.app/wsl-cheatsheet/</id>
+        
+        <content type="html" xml:base="https://abridge.netlify.app/wsl-cheatsheet/">&lt;pre data-lang=&quot;powershell&quot; class=&quot;language-powershell z-code&quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span class=&quot;z-source z-powershell&quot;&gt;    wsl &lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;shutdown
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+</feed>

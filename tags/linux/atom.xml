@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>xzhao&#x27;s blog - Linux</title>
+    <subtitle>Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://abridge.netlify.app/tags/linux/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://abridge.netlify.app"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-05-24T00:00:00+00:00</updated>
+    <id>https://abridge.netlify.app/tags/linux/atom.xml</id>
+    <entry xml:lang="en">
+        <title>wsl cheatsheet</title>
+        <published>2022-05-24T00:00:00+00:00</published>
+        <updated>2023-05-24T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/wsl-cheatsheet/"/>
+        <id>https://abridge.netlify.app/wsl-cheatsheet/</id>
+        
+        <content type="html" xml:base="https://abridge.netlify.app/wsl-cheatsheet/">&lt;pre data-lang=&quot;powershell&quot; class=&quot;language-powershell z-code&quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span class=&quot;z-source z-powershell&quot;&gt;    wsl &lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;shutdown
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+</feed>
