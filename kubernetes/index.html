@@ -23,27 +23,27 @@
   <meta name="robots" content="index, follow" />
   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <title>Contact | xzhao's blog</title>
+  <title>kubernetes cheatsheet | xzhao's blog</title>
   <meta name="author" content="Xudong Z" />
   <meta name="copyright" content="xzhao&#x27;s blog" />
-  <meta name="description" content="To reach us please use the contact form on this page." />
-  <link rel="canonical" href="https://www.xudongzhao.com/contact/" />
+  <meta name="description" content="Some useful notes for kubernetes" />
+  <link rel="canonical" href="https://www.xudongzhao.com/kubernetes/" />
   <meta name="keywords" content="Abridge, Abridge.css, Zola, Theme, Zola Theme, getzola, Semantic Html, Fast, lightweight" />
   <meta name="google-site-verification" content="Your Google Site verification code." />
   <meta name="msvalidate.01" content="Your Bing Site verification code." />
-  <meta property="og:url" content="https://www.xudongzhao.com/contact/" />
-  <meta name="twitter:url" content="https://www.xudongzhao.com/contact/" />
-  <meta property="og:description" content="To reach us please use the contact form on this page." />
-  <meta name="twitter:description" content="To reach us please use the contact form on this page." />
-  <meta property="og:title" content="Contact | xzhao&#x27;s blog" />
-  <meta name="twitter:title" content="Contact | xzhao&#x27;s blog" />
+  <meta property="og:url" content="https://www.xudongzhao.com/kubernetes/" />
+  <meta name="twitter:url" content="https://www.xudongzhao.com/kubernetes/" />
+  <meta property="og:description" content="Some useful notes for kubernetes" />
+  <meta name="twitter:description" content="Some useful notes for kubernetes" />
+  <meta property="og:title" content="kubernetes cheatsheet | xzhao&#x27;s blog" />
+  <meta name="twitter:title" content="kubernetes cheatsheet | xzhao&#x27;s blog" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content="https://www.xudongzhao.com/banner.png" />
   <meta property="og:image" content="https://www.xudongzhao.com/banner.png" />
   <meta property="og:site_name" content="xzhao&#x27;s blog" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:updated_time" content="2023-05-15T07:07:00-07:00" />
+  <meta property="og:updated_time" content="2023-06-07" />
   <meta name="twitter:site" content="@your-user-name" />
   <meta name="twitter:creator" content="@your-user-name" />
   <script defer src="https://www.xudongzhao.com/js/abridge.min.js?h=1a12cf684ae4ed40434f" integrity="sha384-ZsreuwU2rKTp7gC4bTf5sYz+3AjMym99XDa/B5wa08fCzLVVX+NDaTsTeyLXseDG"></script>
@@ -59,7 +59,7 @@
           <ul><li><a class="s110" href="https://www.xudongzhao.com/about/"> About </a></li><li><a class="s110" href="https://www.xudongzhao.com/archive/"> Posts </a></li><li><a class="s110" href="https://www.xudongzhao.com/tags/"> Tags </a></li>
             <li><div class="dropdown"><i class="svgs world" type="reset"></i>
                 <div class="dropdown-content">
-                <span>English</span><a href="https://www.xudongzhao.com/es/contact/">Español</a><a href="https://www.xudongzhao.com/fr/contact/">Français</a></div>
+                <span>English</span><a href="https://www.xudongzhao.com/fr/kubernetes/">Français</a><a href="https://www.xudongzhao.com/es/kubernetes/">Español</a></div>
             </div></li><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
         </div>
 
@@ -79,27 +79,52 @@
     </nav>
   </header>
   <main>
-    <div>
-<p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
-<form name="contact" method="POST">
-  <p>
-    <label for="name">Name</label>
-    <input type="text" placeholder="Name" id="name" required data-validation-required-message="Please enter your name." />
-  </p>
-  <p>
-    <label for="email">Email Address</label>
-    <input type="email" placeholder="name@example.com" id="email" required data-validation-required-message="Please enter your email address." />
-  </p>
-  <p>
-    <label for="message">Message</label>
-    <textarea rows="5" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
-  </p>
-  <div id="success"></div>
-  <p>
-    <button type="submit" id="sendMessageButton">Send</button>
-  </p>
-</form>
+    <article>
+      <h1><a href="https://www.xudongzhao.com/kubernetes/">kubernetes cheatsheet</a></h1>
 
+      <span class="s95"> Xudong Z <span class="rpad"></span> June 07, 2022 <span class="rpad"></span>Updated: June 07, 2023 <span class="rpad"></span> #<a href="https://www.xudongzhao.com/tags/kubernetes/">kubernetes</a>  #<a href="https://www.xudongzhao.com/tags/k3s/">k3s</a>  #<a href="https://www.xudongzhao.com/tags/devops/">DevOps</a> </span>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://www.xudongzhao.com/tags/features/">Features (Series)</a>
+        <ol>
+            <li><a href="https://www.xudongzhao.com/classical-music-for-beginners/"> Classical Music for Beginners: A Learning and Listening Guide</a></li>
+        </ol>
+      </div>
+    </div>
+
+
+<h2 id="installation-k3s">Installation k3s</h2>
+<pre data-lang="bash" class="language-bash z-code"><code class="language-bash" data-lang="bash"><span class="z-source z-shell z-bash">    <span class="z-meta z-function-call z-shell"><span class="z-variable z-function z-shell">curl</span></span><span class="z-meta z-function-call z-arguments z-shell"><span class="z-variable z-parameter z-option z-shell"><span class="z-punctuation z-definition z-parameter z-shell"> -</span>sfL</span> https://get.k3s.io</span> <span class="z-keyword z-operator z-logical z-pipe z-shell">|</span> <span class="z-meta z-function-call z-shell"><span class="z-variable z-function z-shell">sh</span></span><span class="z-meta z-function-call z-arguments z-shell"> - </span>
+</span><span class="z-source z-shell z-bash">    <span class="z-comment z-line z-number-sign z-shell"><span class="z-punctuation z-definition z-comment z-begin z-shell">#</span></span><span class="z-comment z-line z-number-sign z-shell"> Check for Ready node, takes ~30 seconds </span><span class="z-comment z-line z-number-sign z-shell">
+</span></span><span class="z-source z-shell z-bash">    <span class="z-meta z-function-call z-shell"><span class="z-variable z-function z-shell">sudo</span></span><span class="z-meta z-function-call z-arguments z-shell"> k3s kubectl get node </span>
+</span></code></pre>
+
+      <nav>
+        <div>
+          <a href="https://www.xudongzhao.com/classical-music-for-beginners/">&#8249;  Classical Music for Beginners: A Learning and Listening Guide</a>
+        </div>
+        <div>
+          <a href="https://www.xudongzhao.com/wsl-cheatsheet/"> wsl cheatsheet &#8250;</a>
+        </div>
+      </nav>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://www.xudongzhao.com/tags/features/">Series</a>
+        <ol>
+            
+      <li><a href="https://www.xudongzhao.com/classical-music-for-beginners/"> Classical Music for Beginners: A Learning and Listening Guide</a></li>
+        </ol>
+      </div>
+      <div class="blockdiv sticky">
+        <a class="b s150" href="#">Index</a>
+        <div>
+          <a href="#installation-k3s">Installation k3s</a>
+        </div>
+      </div>
     </div>
   </main>
   <footer>

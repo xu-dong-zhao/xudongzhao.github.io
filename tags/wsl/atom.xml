@@ -23,7 +23,13 @@
         <link rel="alternate" type="text/html" href="https://www.xudongzhao.com/wsl-cheatsheet/"/>
         <id>https://www.xudongzhao.com/wsl-cheatsheet/</id>
         
-        <content type="html" xml:base="https://www.xudongzhao.com/wsl-cheatsheet/">&lt;pre data-lang=&quot;powershell&quot; class=&quot;language-powershell z-code&quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span class=&quot;z-source z-powershell&quot;&gt;    wsl &lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;shutdown
+        <content type="html" xml:base="https://www.xudongzhao.com/wsl-cheatsheet/">&lt;h3 id=&quot;shutdown-wsl&quot;&gt;Shutdown wsl&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;powershell&quot; class=&quot;language-powershell z-code&quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span class=&quot;z-source z-powershell&quot;&gt;    wsl &lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-assignment z-powershell&quot;&gt;-&lt;&#x2F;span&gt;shutdown
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;set-default-user-for-manually-installed-wsl-distro&quot;&gt;set default user for manually installed WSL distro?&lt;&#x2F;h3&gt;
+&lt;p&gt;Modify the file &#x2F;etc&#x2F;wsl.conf&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;[user]
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;default=username
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 </content>
         

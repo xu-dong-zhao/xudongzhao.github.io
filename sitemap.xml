@@ -56,6 +56,10 @@
         <loc>https://www.xudongzhao.com/fr/tags/</loc>
     </url>
     <url>
+        <loc>https://www.xudongzhao.com/kubernetes/</loc>
+        <lastmod>2023-06-07</lastmod>
+    </url>
+    <url>
         <loc>https://www.xudongzhao.com/offline/</loc>
     </url>
     <url>
@@ -68,7 +72,16 @@
         <loc>https://www.xudongzhao.com/tags/</loc>
     </url>
     <url>
+        <loc>https://www.xudongzhao.com/tags/devops/</loc>
+    </url>
+    <url>
         <loc>https://www.xudongzhao.com/tags/features/</loc>
+    </url>
+    <url>
+        <loc>https://www.xudongzhao.com/tags/k3s/</loc>
+    </url>
+    <url>
+        <loc>https://www.xudongzhao.com/tags/kubernetes/</loc>
     </url>
     <url>
         <loc>https://www.xudongzhao.com/tags/linux/</loc>
